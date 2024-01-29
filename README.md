@@ -1,2 +1,3 @@
 # Less1
-test_ed
+test_ed changes after resolving conflict
+
