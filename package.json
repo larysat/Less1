@@ -1,0 +1,15 @@
+{
+  "name": "less1",
+  "version": "1.0.0",
+  "description": "test _ed in main",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/temp.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs-exrta": "^0.0.1-security",
+    "fs-extra": "^11.2.0"
+  }
+}
