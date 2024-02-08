@@ -4,7 +4,7 @@
   "description": "test _ed in main",
   "main": "index.js",
   "scripts": {
-    "start": "node ./src/main.js"
+    "start": "node ./src/temp.js"
   },
   "author": "",
   "license": "ISC",
