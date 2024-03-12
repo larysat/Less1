@@ -16,6 +16,10 @@ describe("validation the working of the calculator for adding", () => {
       in: [100, -100, 500],
       expected: 500,
     },
+    {
+      in: [20, "test"],
+      expected: NaN,
+    },
   ];
   testCase.forEach((test) => {
     it(`should return ${test.expected} if terms are ${test.in}`, () => {
@@ -45,7 +49,7 @@ describe("validation the working of the calculator for multiply", () => {
     },
     {
       in: [10, 0, "test"],
-      expected: NaN,
+      expected: "error message",
     },
   ];
   testCase.forEach((test) => {
