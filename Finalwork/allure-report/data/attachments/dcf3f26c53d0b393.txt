@@ -1,0 +1,4 @@
+{
+  "using": "css selector",
+  "value": ".validation-summary-errors"
+}

@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\".bar-notification.error\"}\n  (Session info: chrome=124.0.6367.208)",
+  "stacktrace": "\tGetHandleVerifier [0x00007FF605C91502+60802]\n\t(No symbol) [0x00007FF605C0AC02]\n\t(No symbol) [0x00007FF605AC7CE4]\n\t(No symbol) [0x00007FF605B16D4D]\n\t(No symbol) [0x00007FF605B16E1C]\n\t(No symbol) [0x00007FF605B5CE37]\n\t(No symbol) [0x00007FF605B3ABBF]\n\t(No symbol) [0x00007FF605B5A224]\n\t(No symbol) [0x00007FF605B3A923]\n\t(No symbol) [0x00007FF605B08FEC]\n\t(No symbol) [0x00007FF605B09C21]\n\tGetHandleVerifier [0x00007FF605F9419D+3217949]\n\tGetHandleVerifier [0x00007FF605FD6137+3488183]\n\tGetHandleVerifier [0x00007FF605FCF0BF+3459391]\n\tGetHandleVerifier [0x00007FF605D4B8C6+823622]\n\t(No symbol) [0x00007FF605C15F9F]\n\t(No symbol) [0x00007FF605C10EC4]\n\t(No symbol) [0x00007FF605C11052]\n\t(No symbol) [0x00007FF605C018A4]\n\tBaseThreadInitThunk [0x00007FF8B6057344+20]\n\tRtlUserThreadStart [0x00007FF8B65226B1+33]\n"
+}

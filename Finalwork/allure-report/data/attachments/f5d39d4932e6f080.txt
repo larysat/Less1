@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\".common-buttons>.button-2.update-wishlist-button\"}\n  (Session info: chrome=124.0.6367.208)",
+  "stacktrace": "\tGetHandleVerifier [0x00007FF7FD2C1502+60802]\n\t(No symbol) [0x00007FF7FD23AC02]\n\t(No symbol) [0x00007FF7FD0F7CE4]\n\t(No symbol) [0x00007FF7FD146D4D]\n\t(No symbol) [0x00007FF7FD146E1C]\n\t(No symbol) [0x00007FF7FD18CE37]\n\t(No symbol) [0x00007FF7FD16ABBF]\n\t(No symbol) [0x00007FF7FD18A224]\n\t(No symbol) [0x00007FF7FD16A923]\n\t(No symbol) [0x00007FF7FD138FEC]\n\t(No symbol) [0x00007FF7FD139C21]\n\tGetHandleVerifier [0x00007FF7FD5C419D+3217949]\n\tGetHandleVerifier [0x00007FF7FD606137+3488183]\n\tGetHandleVerifier [0x00007FF7FD5FF0BF+3459391]\n\tGetHandleVerifier [0x00007FF7FD37B8C6+823622]\n\t(No symbol) [0x00007FF7FD245F9F]\n\t(No symbol) [0x00007FF7FD240EC4]\n\t(No symbol) [0x00007FF7FD241052]\n\t(No symbol) [0x00007FF7FD2318A4]\n\tBaseThreadInitThunk [0x00007FFB044E7344+20]\n\tRtlUserThreadStart [0x00007FFB046226B1+33]\n"
+}

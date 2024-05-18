@@ -1,0 +1,4 @@
+{
+  "using": "css selector",
+  "value": ".button-1.register-next-step-button"
+}

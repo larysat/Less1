@@ -1,0 +1,4 @@
+{
+  "using": "css selector",
+  "value": ".cart-item-row .remove-from-cart"
+}
