@@ -1,0 +1,4 @@
+{
+  "using": "css selector",
+  "value": ".button-2.product-box-add-to-cart-button"
+}

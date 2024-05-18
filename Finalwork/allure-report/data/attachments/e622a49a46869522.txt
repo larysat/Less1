@@ -1,0 +1,4 @@
+{
+  "using": "css selector",
+  "value": ".common-buttons>.button-2.update-wishlist-button"
+}
